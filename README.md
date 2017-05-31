@@ -9,6 +9,10 @@ Angular 4 Starter Kit
 </ul>
 
 <h3>Installation</h3>
-To Install : <strong>npm install</strong><br/>
-Live Developement/Client only : <strong>ng serve</strong><br/>
-Universal App/Server Side : <strong>npm run start</strong>
+<ul>
+    <li>To Install : <strong>npm install</strong><br/></li>
+    <li>Live Developement/Client only : <strong>ng serve</strong><br/></li>
+    <li>Universal App/Server Side : <strong>npm run start</strong></li>
+</ul>
+
+
