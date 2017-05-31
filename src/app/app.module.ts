@@ -11,7 +11,7 @@ import { AppComponent } from './app.component';
     AppComponent
   ],
   imports: [
-    BrowserModule,
+    BrowserModule.withServerTransition({appId: 'ng-universal-cli-demo'}),
     FormsModule,
     HttpModule,
     AppRoutingModule
