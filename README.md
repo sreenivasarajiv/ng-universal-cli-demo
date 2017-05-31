@@ -3,8 +3,8 @@ Angular 4 Starter Kit
 
 <h3>Highlights</h3>
 <ul>
-    <li>Server-side rendering with help of Angular Universal</li>
-    <li>Dynamic Meta Tags/SEO Support (Experimental)</li>
+    <li><strong>Server-side rendering</strong> with help of <strong>Angular Universal</strong></li>
+    <li>Dynamic Meta Tags - <strong>SEO Support</strong> (Experimental)</li>
     <li>Webpack Bundle option</li>
 </ul>
 
